@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+
+    <string name="list_footer_loading">正在加载中…</string>
+    <string name="list_footer_network_error">点击重新加载</string>
+    <string name="list_footer_end">已经到底了</string>
+
+    <string name="empty"></string>
+
+    <!-- SmartPullableLayout -->
+    <string name="smart_ui_pull_down_normal">下拉刷新</string>
+    <string name="smart_ui_pull_down_release_able">释放刷新</string>
+    <string name="smart_ui_pull_down_release">正在刷新</string>
+    <string name="smart_ui_pull_up_normal">上拉加载更多</string>
+    <string name="smart_ui_pull_up_release_able">释放进行加载</string>
+    <string name="smart_ui_pull_up_release">正在加载中...</string>
+    <string name="smart_ui_pull_up_no_more">全部加载完了</string>
+</resources>

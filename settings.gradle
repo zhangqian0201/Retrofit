@@ -1,1 +1,1 @@
-include ':app', ':perfect-mvp'
+include ':app', ':perfect-mvp', ':libzxing'
